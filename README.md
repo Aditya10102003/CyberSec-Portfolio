@@ -4,13 +4,12 @@ Welcome — this repository contains practical cybersecurity labs, VAPT writeups
 
 ## Labs & Reports
 - **Labs/Reconnaissance** — OSINT & passive footprinting writeups (Whois, crt.sh, Wayback).  
-- **Labs/VAPT/testphp-vulnweb** — VAPT report with Nmap, Nikto, Gobuster scans and Burp Suite evidence.
 
 ## How to read
 Each lab contains:
-- `Writeup.md` — objective, tools, commands, findings, and remediations.  
-- `Screenshots/` — visual evidence.  
-- `Appendix/` — raw scan outputs (if included).
+- Project Guide- explains all that it is in the project and its division
+- Formal Report- Designed as per the industry standards
+- Technical report- Contains all the technical details and the screenshots and incidentlogs
 
 ## Contact
 - Email: adityayadav101592@gmail.com
