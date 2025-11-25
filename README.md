@@ -1,9 +1,8 @@
 # Aditya Yadav – Cybersecurity Portfolio
 
-Welcome — this repository contains practical cybersecurity labs, VAPT writeups, and certifications demonstrating hands-on skills in ethical hacking, web application security, and reconnaissance.
+Welcome — this repository contains practical cybersecurity labs, VAPT writeups, and certifications demonstrating hands-on skills in ethical hacking, web application security, and reconnaissance and all the hands on projects completed by me
 
 ## Labs & Reports
-- **Labs/Reconnaissance** — OSINT & passive footprinting writeups (Whois, crt.sh, Wayback).  
 
 ## How to read
 Each lab contains:
